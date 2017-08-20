@@ -6,5 +6,6 @@
     <ClCompile Include="Ref.cpp" />
     <ClCompile Include="Return_Ref.cpp" />
     <ClCompile Include="Return_Area_Ref.cpp" />
+    <ClCompile Include="Const_ref.cpp" />
   </ItemGroup>
 </Project>
