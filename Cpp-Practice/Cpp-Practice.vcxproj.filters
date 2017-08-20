@@ -3,5 +3,8 @@
   <ItemGroup>
     <ClCompile Include="Class_const.cpp" />
     <ClCompile Include="Ptr_const.cpp" />
+    <ClCompile Include="Ref.cpp" />
+    <ClCompile Include="Return_Ref.cpp" />
+    <ClCompile Include="Return_Area_Ref.cpp" />
   </ItemGroup>
 </Project>
