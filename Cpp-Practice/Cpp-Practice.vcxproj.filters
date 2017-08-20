@@ -1,11 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="Class_const.cpp" />
-    <ClCompile Include="Ptr_const.cpp" />
-    <ClCompile Include="Ref.cpp" />
-    <ClCompile Include="Return_Ref.cpp" />
-    <ClCompile Include="Return_Area_Ref.cpp" />
-    <ClCompile Include="Const_ref.cpp" />
+    <ClCompile Include="Return_Area_Ref.cpp">
+      <Filter>Ref</Filter>
+    </ClCompile>
+    <ClCompile Include="Return_Ref.cpp">
+      <Filter>Ref</Filter>
+    </ClCompile>
+    <ClCompile Include="Ref.cpp">
+      <Filter>Ref</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr_const.cpp">
+      <Filter>Ref</Filter>
+    </ClCompile>
+    <ClCompile Include="Const_ref.cpp">
+      <Filter>Ref</Filter>
+    </ClCompile>
+    <ClCompile Include="Class_const.cpp">
+      <Filter>Ref</Filter>
+    </ClCompile>
+    <ClCompile Include="iterator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Ref">
+      <UniqueIdentifier>{d99e860d-be51-403e-a210-2a274c15e900}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
